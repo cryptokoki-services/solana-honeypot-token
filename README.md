@@ -12,6 +12,8 @@ Here you will learn how to make your Solana Honeypot Token, add liquidity on Ray
 
 Get the Solana Honeypot Script and PDF manual that will step-by-step guide you through setting up your Solana honeypot crypto
 
+---
+
 ### ⭐️ What the Solana Honeypot Token does:
 
 #### ❄️ Freeze
@@ -23,6 +25,8 @@ Let your team to sell the token by adding them to whitelist. Whitelisted account
 #### 🌡 Thaw
 Remove accounts from blacklist, to give them back ability to sell and transfer token
 
+---
+
 ### ✏️ Guide contents:
 Honeypot script for Solana also comes with detailed guide that will help you to set it up and run for your project<br>
 • How to setup environment to run the script;<br>
@@ -32,6 +36,8 @@ Honeypot script for Solana also comes with detailed guide that will help you to 
 • How to run script and blacklist all current holders;<br>
 • How to thaw accounts;<br>
 • How to remove liquidity from Raydium (Rug Pull).
+
+---
 
 ### ⚠️ The original script to create a honeypot token on Solana is developed by CryptoKoki team and distributed exclusively from our official website [cryptokoki.com](https://cryptokoki.com/), and resources this website refers to (Digital store and personal messages). 
 For more information and purchase, please contact us:<br>
