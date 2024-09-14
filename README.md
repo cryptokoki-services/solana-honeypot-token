@@ -6,6 +6,8 @@
 📥 Telegram PM: [@crypt0koki](https://t.me/crypt0koki)<br>
 📭 E-mail: cryptokoki@proton.me<br>
 
+> Learn everything about Solana Honeypot in the overview article from the CryptoKoki team. </br> What it is and how it works with an example – [Solana Honeypot Overview ➥](https://cryptokoki.com/articles/solana-honeypot.html)
+
 Guide on how to create a __honeypot token on Solana__. This script will block sales for all holders of your token, so they cant sell or transfer it, to establish high profits from Solana rug pull project.
 
 Here you will learn how to make your Solana Honeypot Token, add liquidity on Raydium, block sales to all token holders, and rug pull by removing liquidity from Raydium.
